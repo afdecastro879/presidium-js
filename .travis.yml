@@ -11,6 +11,7 @@ deploy:
   bucket: s3://span-presidium
   local-dir: dist
   upload-dir: presidium-js/develop
+  skip_cleanup: true
   on:
     repo: afdecastro879/presidium-js
     branch: develop

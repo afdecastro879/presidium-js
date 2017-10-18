@@ -14,3 +14,5 @@ deploy:
   skip_cleanup: true
   local_dir: dist
   upload-dir: presidium-js/develop
+  on:
+    branch: develop

@@ -10,7 +10,7 @@ deploy:
     secure: Hm24qzY1AtEKjFWAv+3iIBE3HMlo3C3PCFujdW0T3sj6jBgj/34q4FREXSQWDKXKRgr6VmRbUOshaST7a0WYuUrGfauyJ23Ep037ZeMSU/cTSNFo50T7RCUKbvPN5iZMVCBOo1bQfpp1Tg2sgLBkmrC9Og5vftPaqsge0+5mE/97ZMrr9+NAnMC98eruj9c/ibXdHyMa2Vwbw0dNsmViUGB/DwFAdSkacs+MN6YicmSLaDKEdB6VZM68oYJRBuYYe9w/01oP/2pGGmWj9/LkzHPoAGL6e8rTi3YBS+z42P/3UUgRmoWp/Qfble8glU3aZW6sKmod4KiToNo8QTOW5+FuiGYDj4WR3+nXev0xXssmILevlD9KPx76fIryZJ100KPgu8ZHYtSEus+NXYOoNN80HJxVqZiFUHaTFOivErJDCu9/DErKTplXLs3d3BTBBRky2WInNctkVyMXXuZq74lgbd5xPDKkz/Ucwtva+IbpcdvfOExz9LJWn5crdgpS5bwe9YJykU94+j0OOt5Ct4uZ83crhbWyRc6LQtOo2mgRRp2B+xqK9k4qHVdZpfbo6T16MaI3X2Ebpx460mptjvBxvpYGC645+cDz2h0p/XV3G8aFgQiih1hKd9UK9i4M+uk1zXsNFICsz0tycVENpmfKK1XLEbMwJKbyijPBGrA=
   bucket: span-presidium
   local-dir: dist
-  upload-dir: /presidium-js/develop
+  upload-dir: presidium-js/develop
   skip_cleanup: true
   on:
     repo: afdecastro879/presidium-js
